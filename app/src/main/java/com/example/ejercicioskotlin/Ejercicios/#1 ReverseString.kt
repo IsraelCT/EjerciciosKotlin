@@ -11,7 +11,7 @@ Algunos ejemplos:
 Convertirse "stressed"en "desserts".
 Convertirse "strops"en "sports".
 Convertirse "racecar"en "racecar".
-
+ bv
 Por ejemplo, en bioinformática, invertir la secuencia de cadenas de
  ADN o ARN suele ser importante para diversos análisis, como encontrar
  cadenas complementarias o identificar secuencias palindrómicas que tienen
